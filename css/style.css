@@ -50,3 +50,11 @@ strong {
   background-image: url("/pattern.png");
   background-repeat: repeat-x;
 }
+
+.profile {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+
+
